@@ -1,0 +1,18 @@
+### Footprint positions - created on 2025-04-03T12:53:58+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                   PosX       PosY       Rot  Side
+K1        SANYOU_SRD_Form_C  Relay_SPDT_SANYOU_SRD_Series_Form_C   152.3500  -116.9500    0.0000  top
+PS1       HLK-PM03           Converter_ACDC_Hi-Link_HLK-PMxx       116.5550  -111.4550    0.0000  top
+Q1        BT136-600          TO-220-3_Vertical                     164.1200   -79.0900    0.0000  top
+Q2        BC547              TO-92_Inline                          178.7300   -93.8600    0.0000  top
+R1        330                R_0402_1005Metric                     172.1900   -94.5500    0.0000  top
+R2        1K                 R_0402_1005Metric                     172.1900   -96.5400    0.0000  top
+R3        10K                R_0402_1005Metric                     172.1900   -98.5300    0.0000  top
+SW1       SW_Push            SW_Matias_1.00u                       172.7950   -62.8550    0.0000  top
+U1        ESP32-WROOM-32     ESP32-WROOM-32                        136.3600   -90.8100    0.0000  top
+U2        MOC3021M           Finder_34.81                          155.9000  -104.0050    0.0000  top
+U3        AMS1117-3.3        SOT-223-3_TabPin2                     165.8100   -91.9650    0.0000  top
+U4        PC817              DIP-4_W7.62mm                         162.4700   -83.1700    0.0000  top
+## End
